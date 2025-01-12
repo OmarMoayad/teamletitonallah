@@ -1,0 +1,58 @@
+2024-12-18 10:05:13.162 [info] 
+
+
+
+
+2024-12-18 10:05:13.195 [info] Extension host agent started.
+2024-12-18 10:05:13.355 [info] [<unknown>][1202f791][ExtensionHostConnection] New connection established.
+2024-12-18 10:05:13.362 [info] Started initializing default profile extensions in extensions installation folder. file:///home/omar/.vscode-server/extensions
+2024-12-18 10:05:13.377 [info] [<unknown>][7c7c1c65][ManagementConnection] New connection established.
+2024-12-18 10:05:13.422 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/omar/.vscode-server/extensions
+2024-12-18 10:05:13.760 [info] [<unknown>][1202f791][ExtensionHostConnection] <1574> Launched Extension Host Process.
+2024-12-18 10:05:14.464 [error] [network] #1: https://main.vscode-cdn.net/extensions/marketplace.json - error GET AggregateError [ETIMEDOUT]: 
+2024-12-18 10:08:04.970 [info] [<unknown>][7c7c1c65][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-18 10:08:05.100 [info] [<unknown>][1202f791][ExtensionHostConnection] <1574> Extension Host Process exited with code: 0, signal: null.
+2024-12-18 10:08:05.101 [info] Cancelling previous shutdown timeout
+2024-12-18 10:08:05.102 [info] Last EH closed, waiting before shutting down
+2024-12-18 10:08:30.527 [info] [<unknown>][edab4448][ExtensionHostConnection] New connection established.
+2024-12-18 10:08:30.537 [info] [<unknown>][edab4448][ExtensionHostConnection] <1744> Launched Extension Host Process.
+2024-12-18 10:08:30.539 [info] [<unknown>][14f6e0cf][ManagementConnection] New connection established.
+2024-12-18 10:08:32.736 [error] CodeExpectedError: Could not find pty 9 on pty host
+    at I.W (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:48:12233)
+    at I.updateTitle (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:48:7722)
+    at N.s.<computed> (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:48:2962)
+    at Object.call (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4203)
+    at Jc.s (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78968)
+    at Jc.q (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78491)
+    at us.value (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77893)
+    at C.B (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:746)
+    at C.fire (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:964)
+    at process.w (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29142)
+    at process.emit (node:events:518:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-12-18 10:08:56.307 [info] [<unknown>][14f6e0cf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-18 10:08:56.313 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/server-main.js:184:1060)
+    at process.emit (node:events:530:35)
+2024-12-18 10:08:56.394 [info] [<unknown>][edab4448][ExtensionHostConnection] <1744> Extension Host Process exited with code: 0, signal: null.
+2024-12-18 10:08:56.395 [info] Cancelling previous shutdown timeout
+2024-12-18 10:08:56.395 [info] Last EH closed, waiting before shutting down
+2024-12-18 10:09:05.718 [info] [<unknown>][9e68ac8c][ManagementConnection] New connection established.
+2024-12-18 10:09:05.742 [info] [<unknown>][6e9b0032][ExtensionHostConnection] New connection established.
+2024-12-18 10:09:05.763 [info] [<unknown>][6e9b0032][ExtensionHostConnection] <1942> Launched Extension Host Process.
+2024-12-18 10:09:07.875 [error] CodeExpectedError: Could not find pty 10 on pty host
+    at I.W (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:48:12233)
+    at I.updateTitle (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:48:7722)
+    at N.s.<computed> (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:48:2962)
+    at Object.call (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4203)
+    at Jc.s (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78968)
+    at Jc.q (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78491)
+    at us.value (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77893)
+    at C.B (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:746)
+    at C.fire (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:964)
+    at process.w (file:///home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29142)
+    at process.emit (node:events:518:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-12-18 10:13:56.399 [info] New EH opened, aborting shutdown

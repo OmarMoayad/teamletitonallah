@@ -1,0 +1,4 @@
+Listening on 127.0.0.1:43893
+[2024-12-18 10:09:05] info Disposed of connection to running server.
+[2024-12-18 10:09:05] info Checking /home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/log.txt and /home/omar/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/pid.txt for a running server...
+[2024-12-18 10:09:05] info Found running server (pid=1544)

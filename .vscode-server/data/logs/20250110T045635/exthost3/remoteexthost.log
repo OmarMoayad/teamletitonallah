@@ -1,0 +1,18 @@
+2025-01-10 05:01:56.619 [info] Extension host with pid 2392 started
+2025-01-10 05:01:56.620 [error] Error: EEXIST: file already exists, open '/home/omar/.vscode-server/data/User/workspaceStorage/2869fe111761a3704e63906995a27e16/vscode.lock'
+2025-01-10 05:01:56.652 [info] Lock '/home/omar/.vscode-server/data/User/workspaceStorage/2869fe111761a3704e63906995a27e16/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-01-10 05:01:56.694 [info] Lock '/home/omar/.vscode-server/data/User/workspaceStorage/2869fe111761a3704e63906995a27e16/vscode.lock': The pid 1942 appears to be gone.
+2025-01-10 05:01:56.694 [info] Lock '/home/omar/.vscode-server/data/User/workspaceStorage/2869fe111761a3704e63906995a27e16/vscode.lock': Deleting a stale lock.
+2025-01-10 05:01:56.705 [info] Lock '/home/omar/.vscode-server/data/User/workspaceStorage/2869fe111761a3704e63906995a27e16/vscode.lock': Lock acquired.
+2025-01-10 05:01:57.030 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-01-10 05:01:57.043 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-10 05:01:57.044 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2025-01-10 05:01:57.045 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-01-10 05:01:57.833 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-01-10 05:01:57.843 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-01-10 05:01:58.959 [info] Eager extensions activated
+2025-01-10 05:01:58.961 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-10 05:01:58.963 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-10 05:05:18.059 [info] Extension host terminating: received terminate message from renderer
+2025-01-10 05:05:18.060 [info] Lock '/home/omar/.vscode-server/data/User/workspaceStorage/2869fe111761a3704e63906995a27e16/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-01-10 05:05:18.231 [info] Extension host with pid 2392 exiting with code 0

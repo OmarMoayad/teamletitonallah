@@ -1,0 +1,21 @@
+2025-01-10 17:28:48.764 [info] 
+
+
+
+
+2025-01-10 17:28:48.858 [info] Extension host agent started.
+2025-01-10 17:28:49.129 [info] [<unknown>][eaf86500][ExtensionHostConnection] New connection established.
+2025-01-10 17:28:49.133 [info] [<unknown>][7e9e5e81][ManagementConnection] New connection established.
+2025-01-10 17:28:49.550 [info] [<unknown>][eaf86500][ExtensionHostConnection] <1752> Launched Extension Host Process.
+2025-01-10 17:28:50.193 [error] [network] #1: https://main.vscode-cdn.net/extensions/marketplace.json - error GET AggregateError [ETIMEDOUT]: 
+2025-01-10 17:33:48.861 [info] New EH opened, aborting shutdown
+2025-01-10 17:45:05.245 [info] [<unknown>][7e9e5e81][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-10 17:45:05.438 [info] [<unknown>][eaf86500][ExtensionHostConnection] <1752> Extension Host Process exited with code: 0, signal: null.
+2025-01-10 17:45:05.440 [info] Last EH closed, waiting before shutting down
+2025-01-10 17:45:47.930 [info] [<unknown>][e06e0ffb][ExtensionHostConnection] New connection established.
+2025-01-10 17:45:47.947 [info] [<unknown>][e06e0ffb][ExtensionHostConnection] <2444> Launched Extension Host Process.
+2025-01-10 17:45:47.952 [info] [<unknown>][d94799dd][ManagementConnection] New connection established.
+2025-01-10 17:50:05.445 [info] New EH opened, aborting shutdown
+2025-01-10 17:50:05.462 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/omar/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/server-main.js:184:1060)
+    at process.emit (node:events:530:35)
